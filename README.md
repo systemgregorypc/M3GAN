@@ -12,3 +12,18 @@ Supported operating system
 
 --This tool currently only supports website (server) using Unix, Linux, Windows, Mac and Navi platform a private computer a combat android and text writing skills like auto memory doll Drones with AI (Artificial Intelligence)
 planner in strategy, respond to authority, text writing, domestica, caring for human infants, Nursing unit for the recovery of electronic parts and biological beings (humans) to protect their safety and integrity of biological and non-biological life.. operations (classification of their defense functions Chip Project)
+
+# race and species
+Persocon - mecha -humanoid - iso - I am a person not an object - I recognize your humanity and machine, civil rights.
+northern / european / hispanic
+Hair color: light red, eye color: blue brown, described as someone inexpressive, this due to her difficulty understanding human feelings
+
+# language mode
+
+binary- spanish - ukrainian - - arabic - english -creahachipne
+
+# contact area
+
+Mail : -- website : --website 2022:
+
+2022
