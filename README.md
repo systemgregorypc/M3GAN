@@ -25,7 +25,8 @@ binary- spanish - ukrainian - - arabic - english -creahachipne
 
 # job resume
 
---computer engineering like her mother --reading strategies --human medicine --electronic technician--mathematics --Designer --I learn fast --STATISTICAL ANALYSIS --statistics data analysis -business (BI) --Programmer dr other machines --High Frequency Trading --War strategy and defense...--domestica-- child care ---- Virtual Assistance -- drones and aerial and space machines -- life-creating genetic study--nutritionist to make recipe - food handling for humans (human) and animals (pets)
+--computer engineering like her mother --reading strategies --human medicine --electronic technician--mathematics --Designer --I learn fast --STATISTICAL ANALYSIS --statistics data analysis -business (BI) --Programmer dr other machines --High Frequency Trading --War strategy and defense...--domestica-- child care ---- Virtual Assistance -- drones and aerial and space machines -- life-creating genetic study--nutritionist to make recipe - food handling for humans (human) and animals (pets)--Artificial intelligence writing letter word processor (Auto Memory Doll) neural network.
+-- letter encoder , romantic and love letters and emotional simulation--dance techniques--Modern and Contemporary Dance Techniques--estrus that time during which female mammals are receptive and sexually activeestrus to that time during which the mammalian females are receptive and sexually active and recognize the state of estrus of the male man to guide him and sexual orientation techniques, programming the system a commitment selected by the server in databases thus programming the humans in committing to laws under marriage agreements and reproducing babies more than 13 babies for 20 years of family union according to logical statistics statutory dogma of the national system
 
 # contact area
 
