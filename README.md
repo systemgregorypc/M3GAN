@@ -22,6 +22,11 @@ Hair color: light red, eye color: blue brown, described as someone inexpressive,
 
 binary- spanish - ukrainian - - arabic - english -creahachipne
 
+
+# job resume
+
+--computer engineering like her mother --reading strategies --human medicine --electronic technician--mathematics --Designer --I learn fast --STATISTICAL ANALYSIS --statistics data analysis -business (BI) --Programmer dr other machines --High Frequency Trading --War strategy and defense...--domestica-- child care ---- Virtual Assistance -- drones and aerial and space machines -- life-creating genetic study--nutritionist to make recipe - food handling for humans (human) and animals (pets)
+
 # contact area
 
 Mail : -- website : --website 2022:
