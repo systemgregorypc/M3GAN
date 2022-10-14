@@ -1,0 +1,25 @@
+nodo neuronal
+
+ASIC
+
+ VLSI
+ 
+ input function
+ 
+ (ini1, ini2,
+ inputi =  (ini1• wi1)* (ini2• wi2)*... (inin• win)
+ 
+  
+   −=a /11a/11/a-*aa/11)(fxxxxxcon x = gini - Θi,  y  a > 0
+   
+   f−+=,  con x = gini - Θi. 
+   
+   f−−+−=, con x = gini - Θi.
+   
+   wij(t+1) = wij(t) + ∆wij(t) 
+   
+   ∆wij = σ*outj*(aqi – outi);
+   
+   w1)1*2(*)1*2(,
+   
+   
