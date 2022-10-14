@@ -1,0 +1,10 @@
+CMOS/TTL INTERFACE
+
+For hardware realization, it is used in this function
+(digital inputs) the bottom of port B
+( RB0,RB1,RB2,RB3), as input, but to avoid
+the drawback that the PLC inputs must comply with the CMOS standard at 12 volts,
+and the PIC port B inputs are CMOS compliant but low voltage (+5V),
+the input signal was conditioned with a voltage level converter, such as the CD4010,
+which as shown in figure 1.4, the main function
+is to couple high voltage CMOS logic to low voltage
