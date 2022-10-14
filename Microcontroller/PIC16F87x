@@ -1,0 +1,31 @@
+Microchip's PIC16F87x microcontrollers belong to a large family of microcontrollers with an 8-bit data bus, which have the following general characteristics that distinguish them from other families:
+
+– Harvard Architecture
+– RISC technology
+– CMOS technology
+– Only has 35 instructions to learn
+– All instructions are executed in one clock cycle, except jumps, which require two cycles
+– 0 to 20 MHz operating frequency (from DC to 200 ns instruction cycle)
+– Up to 8K x 14 bits of FLASH memory for the program
+– Up to 368 bytes of random access data memory (RAM)
+– Up to 256 bytes of EEPROM data memory
+– Up to 14 interrupt sources on 28-pin and 15 on 40-pin
+– 8-level hardware stack
+– Power on reset (BY)
+– Power On Timer (PWRT)
+– Oscillator Start Timer (OST)
+– Watchdog Timer surveillance system (“wake-up” timer).
+– A code protection can be programmed
+– Low power consumption SLEEP mode
+– Various options for the oscillator
+– Serial programming and debugging (ICSP, In Circuit Serial Programming = Programming Serial In Circuit) through two pins
+– CPU can read/write program FLASH memory
+– Operating voltage range from 2.0 to 5.5 volts
+– Can deliver high current on one output leg: 25 mA
+– Temperature ranges: Commercial, Industrial and Extended
+– Low power consumption:
+    . Less than 0.6mA at 3V, 4MHz
+    . 20 µA at 3 V, 32 KHz
+    . Less than 1µA of current in latent state (stand by).
+
+
