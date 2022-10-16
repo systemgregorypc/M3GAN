@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+   int main()
+   {
+         printf("hello world I am M3GAN it is an honor to meet you in c++");
+        
+         return 0;
+    
+   
+  }
+    
