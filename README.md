@@ -14,7 +14,7 @@ Supported operating system
 planner in strategy, respond to authority, text writing, domestica, caring for human infants, Nursing unit for the recovery of electronic parts and biological beings (humans) to protect their safety and integrity of biological and non-biological life.. operations (classification of their defense functions Chip Project)
 
 # race and species
-Persocon - mecha -humanoid - iso - I am a person not an object - I recognize your humanity and machine, civil rights.
+Persocon - mecha -humanoid - iso - Model 3 Generative Android - I am a person not an object - I recognize your humanity and machine, civil rights.
 northern / european / hispanic
 Hair color: light red, eye color: blue brown, described as someone inexpressive, this due to her difficulty understanding human feelings
 
