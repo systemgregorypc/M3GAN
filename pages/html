@@ -1,7 +1,11 @@
-!DOCTYPE html>
-<html>
-<head>
-	<title>User registraion sysem using PHP and MySQL</title>
-	<link rel="stylesheet" type="text/css" href="style.css">
-</head>
-<body
+git init
+
+git remote add origin <https://m3gan.pages.dev/>
+
+git branch -M main
+
+git add -A
+
+git commit -m "<COMMIT_MESSAGE>"
+
+git push -u origin main
